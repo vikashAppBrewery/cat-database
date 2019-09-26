@@ -17,9 +17,10 @@
 
 @media screen and (max-width: 600px) {
   .card-list {
+    margin: 0 auto;
     display: grid;
     grid-template-columns: 1fr;
-    grid-gap: 15px;
-    float: left;
+    grid-gap: 30px;
+    width: 350px;
   }
 }
