@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cat-database/static/css/main.8b9cc6ac.chunk.css",
+    "main.css": "/cat-database/static/css/main.df34cfe9.chunk.css",
     "main.js": "/cat-database/static/js/main.bd163724.chunk.js",
     "main.js.map": "/cat-database/static/js/main.bd163724.chunk.js.map",
     "runtime-main.js": "/cat-database/static/js/runtime-main.03ec84bc.js",
@@ -8,8 +8,8 @@
     "static/js/2.0aab78e1.chunk.js": "/cat-database/static/js/2.0aab78e1.chunk.js",
     "static/js/2.0aab78e1.chunk.js.map": "/cat-database/static/js/2.0aab78e1.chunk.js.map",
     "index.html": "/cat-database/index.html",
-    "precache-manifest.ca10b59e46efb7d8dff9396aec967a59.js": "/cat-database/precache-manifest.ca10b59e46efb7d8dff9396aec967a59.js",
+    "precache-manifest.284fcc1c4f65af5974cd600210552760.js": "/cat-database/precache-manifest.284fcc1c4f65af5974cd600210552760.js",
     "service-worker.js": "/cat-database/service-worker.js",
-    "static/css/main.8b9cc6ac.chunk.css.map": "/cat-database/static/css/main.8b9cc6ac.chunk.css.map"
+    "static/css/main.df34cfe9.chunk.css.map": "/cat-database/static/css/main.df34cfe9.chunk.css.map"
   }
 }
